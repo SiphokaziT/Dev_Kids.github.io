@@ -1,0 +1,145 @@
+
+ body {
+  margin: 0;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color:orange;
+}
+h1 {
+  color:orange;
+  padding:15px;
+  text-align: center;
+  background-color:green;
+}
+#engage {
+color: green;
+}
+#paragraphs {
+ color:blue; 
+}
+#hash3 {
+ color:blue; 
+ text-align: left;
+}
+
+.desc{
+   text-align: center; 
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mainNav{
+  background-color:greenyellow;
+  text-align: center;
+ }
+
+h2,h3, h4, h5, h6 {
+    color: blueviolet;
+    font-weight: 600;
+    
+    text-align: center;
+}
+
+.gallery{
+    text-align:left;
+}
+
+#button{
+	color:#orange;
+	background-color:green;
+}
+
+input[type=text], select, textarea {
+    width: 500%;
+    padding: 12px;
+    border: 0px solid #ccc;
+    border-radius: 0px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: black;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 0px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: green;
+}
+
+.contact_form {
+    border-radius: 0px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+#pageFooter{
+	grid-area:footer;
+	color:orange;
+	background-color:green;
+}
+.container-divs .img-item {
+	position:relative;
+	height:100px;
+	width:100px;
+	left:0px;
+	float:left;
+	border-radius:50%;
+	margin: 0px 0px 5px 5px;
+	padding-left:5%;
+	padding-right:5%;
+	
+}
+
+
+nav,li,a:hover{
+    color:green;
+}
+
+ul{
+	margin-left:70%;
+	margin-left:5%;
+}
+
+#list order{
+ text-align :center;
+
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 0px solid #ccc;
+    border-radius: 0px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+
+input[type=submit] {
+    background-color: #00e6e6;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 0px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #00e6e6;
+}
+
